@@ -1,5 +1,5 @@
 {
-  "name": "react-native-multi-select",
+  "name": "@codecrave/react-native-multi-select",
   "title": "React Native Multi Select",
   "version": "0.0.1",
   "description": "This is a library for multi select option for android and ios",
